@@ -1,0 +1,6 @@
+-   id: check-cloudformation
+    name: Checks cloudformation
+    description: Looks for anti-patterns in cloudformation templates.
+    entry: check-cloudformation
+    language: python
+    types: [yaml]
